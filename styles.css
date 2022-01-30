@@ -1,0 +1,43 @@
+    body {
+        max-width: 850px;
+        margin: auto;
+        border-bottom: 1px;
+    }
+    
+    header {
+        color: rgb(93, 188, 137);
+    }
+    
+    .box1 {
+        background-color: rgb(225, 225, 225);
+        color: rgb(93, 188, 137);
+        text-align: justify;
+    }
+    
+    .box2 {
+        background-color: rgb(225, 225, 225);
+        color: rgb(93, 188, 137);
+        text-align: justify;
+    }
+    
+    .box3 img {
+        border: solid gray;
+        width: 250px;
+        border-bottom: 20px;
+    }
+    
+    .box4 {
+        color: black;
+        text-align: justify;
+    }
+    
+    .feltalalok {
+        background-color: white;
+        color: black;
+    }
+    
+    footer {
+        margin: auto;
+        text-align: center;
+        border: 20px;
+    }
